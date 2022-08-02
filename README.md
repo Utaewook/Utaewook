@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Utaewook
-- 👀 I’m interested in Android Apps, Network basics
-- 🌱 I’m currently learning ?
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Application Programming,
+Python Machine Learning,
+Network Basics
 
 <!---
 Utaewook/Utaewook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
